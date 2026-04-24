@@ -1,6 +1,5 @@
-# FORM_VALIDATIONS
 
-<h3>Register Form UI</h3>
+<h3>Register Form Validation</h3>
 
 <h3> Description </h3>
 <h4>
