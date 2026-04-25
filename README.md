@@ -3,7 +3,7 @@
 
 <h3> Description </h3>
 <h4>
-This project is a clean and functional user interface for a registration form, designed using standard HTML5 and CSS3. The focus is on usability, readability, and a modern, minimalist aesthetic that can easily be integrated into larger web applications. It includes fields for Username, Email, Password, and Password Confirmation, with placeholder text and a prominent registration button. The entire form is contained within a elevated, shadowed "card" on a neutral background for a focused user experience.
+This project is a clean and responsive, designed using standard HTML5, CSS3 and Java Script. It is simple but work according to the logic. In the forms it includes: Username, password, Re-confirm password, E-mail and Register button.
 </h4>
 
 <h3>Features </h3>
